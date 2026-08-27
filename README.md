@@ -7,6 +7,7 @@ This project demonstrates the implementation of a **CI/CD pipeline for a Node.js
 Whenever code is pushed to the `main` branch, GitHub Actions automatically tests the application, builds a Docker image, and pushes the latest image to DockerHub.
 
 ---
+<img width="1534" height="838" alt="image" src="https://github.com/user-attachments/assets/64fb6af9-b3ad-46c1-bd8f-a0efaf4e0b5f" />
 
 ## Objective
 
