@@ -5,4 +5,4 @@ tabWidth: 2
 arrowParens: always
 bracketSpacing: true
 useTabs: false
-htmlWhitespaceSensitivity: ignore
+htmlWhitespaceSensitivity: ignore  
