@@ -11,7 +11,7 @@ AZURE_APP_NAME ?= nodejs-demoapp
 # Used by test targets
 TEST_BASE_URL ?= http://localhost:3000
 TEST_FILES ?= base-tests.http
-
+  
 # Don't change
 SRC_DIR := src
 
