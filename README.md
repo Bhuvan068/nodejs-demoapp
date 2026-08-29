@@ -822,3 +822,5 @@ The final implementation successfully demonstrates:
 * Automatic rebuilding after source-code changes
 
 Therefore, the required CI/CD workflow for **Task 1: Automate Code Deployment Using CI/CD Pipeline** has been successfully implemented and verified.
+
+Jenkins auto-trigger test
