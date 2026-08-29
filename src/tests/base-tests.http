@@ -27,8 +27,8 @@ GET {{baseUrl}}/tools
 
 
 ### Base - Monitor API
-GET {{baseUrl}}/api/monitoringdata
+## GET {{baseUrl}}/api/monitoringdata
 
-?? status == 200
-?? body memUsedBytes isNumber
-?? body cpuAppPercentage isNumber
+## ?? status == 200
+## ?? body memUsedBytes isNumber
+## ?? body cpuAppPercentage isNumber
